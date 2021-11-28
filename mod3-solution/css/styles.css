@@ -1,0 +1,45 @@
+/* Test boxes - can be deleted */
+.big_box {
+	background-color: grey;
+	height:  700px;
+	border:  2px solid black;
+	margin-top: 20px;
+}
+
+#main-content2 {
+	border:  black 1px solid;
+}
+
+.navbar {
+	background-color: green;
+	color:  white;
+}
+
+.navbar li {
+	text-align: center;
+}
+
+.container-fluid .navbar-collapse ul li a {
+	background-color: blue;
+	color: yellow;
+}
+
+.navbar-collapse ul {
+	background-color: blue;
+	color: yellow;
+}
+
+#main-content h3 {
+
+}
+
+.big_box a {
+	position: absolute;
+	color:  black;
+	bottom:  0;
+	right:  20px;
+
+
+}
+
+/* End text boxes */
